@@ -9,7 +9,7 @@ def binary_search(list, item):
     # ... check the middle element
     mid = (low + high) // 2
     guess = list[mid]
-    print(guess)
+    print("debug")
     # Found the item.
     if guess == item:
       return mid
