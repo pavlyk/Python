@@ -1,6 +1,6 @@
 # Alt + F2 bookmarks F3 _ Shift F3
 # Alt + ; metaGo
-# cmnd + ` Terminal, Alt + Shift + U - Output
+# Alt +shift + t Terminal, Alt + Shift + U - Output
 # Alt + 1,2,3 Jump to window
 # Alt + \ Split window
 # Alt + Shift + 2 navigate Right
