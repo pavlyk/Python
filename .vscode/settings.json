@@ -1,3 +1,4 @@
 {
     "code-runner.saveFileBeforeRun": true
+    "python.pythonPath": "/usr/local/bin/python3"
 }
