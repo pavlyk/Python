@@ -9,10 +9,11 @@ from selenium.webdriver.common.keys import Keys
 
 driver = webdriver.Chrome('C:/Users/kozlov_pa/Downloads/chromedriver_win32___/chromedriver')
 # driver = webdriver.Firefox()
-driver.get("http://www.python.org")
-assert "Python" in driver.title
-elem = driver.find_element_by_name("q")
-elem.send_keys("hello world")
-elem.send_keys(Keys.RETURN)
+driver.get("http://www.yandex.ru")
+# assert "Python" in driver.title
+# elem = driver.find_element_by_name("q")
+# elem.send_keys("hello world")
+# elem.send_keys(Keys.RETURN)
+driver.find_element_by_id('text').send_keys('Как пользоваться программой')
 # assert "No results found." not in driver.page_source
 # driver.close()
