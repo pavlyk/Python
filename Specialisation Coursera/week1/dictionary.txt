@@ -1,0 +1,887 @@
+duty;долг
+portion;часть
+noodle;лапша
+table;стол
+complaint;жалоба
+rather;наоборот
+frustration;расстройство
+stuff;штука
+freshen;освежать
+supplied;предоставленный
+following;последующий
+toggle;переключатель
+accurate;точный
+magnitude;величина
+increase;возрастать
+flavor;атмосфера
+provide;снабжать
+benchmark;ориентир
+fraud;мошенничество
+reward;награда
+approximately;приблизительно
+combination;сочетание
+simultaneous;одновременный
+experience;чувствовать
+alongside;вместе
+whilst;пока
+awareness;осведомлённость
+appropriately;соответствующе
+replacing;замена
+occasionally;время от времени
+outward;наружу
+over;на
+rare;редкий
+fried;жареный
+bone;кость
+French fries;картофель фри
+addict;фанат
+addict;человек, имеющий зависимость
+practise;практиковаться
+frightened;испуганный
+filled;наполненный
+apart;на расстоянии
+encouragement;ободрение 
+compassion;сострадание
+achieve;достигать
+strive;стремиться
+sorrow;скорбь
+insomnia;бессонница
+subconscious;подсознание
+scared;напуганный
+lonely;одинокий
+suspicious;подозрительный
+chat;непринуждённо болтать
+briefcase;портфель
+bother;беспокоиться
+agree;соглашаться
+election;выборы
+champagne;шампанское
+seldom;редко
+review;пересмотр
+builder;создатель
+hurt;болеть
+electrician;электрик
+promise;обещать
+requirement;требование
+couple;пара
+indeed;действительно
+fewer;меньше
+sweater;свитер
+explanation;объяснение
+needle;игла 
+liquid;жидкость
+thirst;жажда
+thirsty;жаждущий
+urgently;срочно
+preparation;подготовка
+offering;предложение
+eternal;вечный
+journey;путешествие
+pipe;курительная трубка
+plumber;сантехник
+generally;как правило
+as a whole;в целом
+cheer up;взбодриться
+business;бизнес
+doubt;сомнение
+moreover;более того
+promotion;повышение 
+offer;предлагать
+cheer;ободрять
+Capricorn;Козерог 
+Virgo;Дева
+Sagittarius;Стрелец 
+library;библиотека
+Taurus;Телец 
+Gemini;Близнецы 
+as well;также
+surprise;неожиданность
+busy;занятой
+Aries;Овен 
+Pisces;Рыбы
+aquarius;Водолей
+silence;тишина
+be able to;мочь
+violent;яростный
+healthier;здоровее
+fluently;свободно
+fall;падать
+climbing;скалолазание
+lend;одалживать
+idle;незанятый
+determination;решение
+calculus;камень
+within;в пределах 
+think;думать
+thought;размышление
+able;способный 
+narrow;узкий
+everything;всё
+go well;получаться
+exciting;захватывающий
+arrange;договариваться
+arrange;расставлять
+occasion;случай
+reunion;встреча после разлуки
+arrangement;расстановка
+extend;расширять
+suburb;пригород
+suitcase;чемодан
+reclaim;возвращать обратно
+until;до тех пор пока не
+badly;плохо
+forecast;прогноз
+resistance;сопротивление
+sail;плавать
+yet;до сих пор
+holiday;отпуск
+pleasure;удовольствие
+terrible;ужасный
+arrangement;договорённость
+bothered;обеспокоенный 
+whatever;всё, что
+span;промежуток
+pivot;опорная точка
+interrupted;прерывистый
+introduce;представлять
+colleague;коллега
+heating;нагревание
+equipment;оборудование 
+major;основной
+attraction;притяжение
+approved;утвержденный
+enormous;гигантский
+available;доступный
+complimentary;бесплатный
+en-suite;смежный 
+facility;помещение
+thing;вещь
+neural;нейронный
+ought;должен
+treat;баловать
+accordance;согласие
+execution;исполнение
+bay;бухта
+wholewheat bread;цельнозерновой хлеб
+dependent;зависимый
+decade;десятилетие
+particular;особенный
+lorry;грузовик
+reject;отклонять
+nasty;злобный
+perfect;идеальный
+robber;грабитель
+across;по ту сторону
+bit;кусочек 
+plant;растение
+although;несмотря на то что
+curtain;штора
+assuming;самонадеянный
+hurry;торопиться
+coat;пальто
+madly;неистово
+harry;изводить
+sunlight;солнечный свет
+bee;пчела
+alien;иностранец
+multiplication;размножение
+discovered;обнаруженный
+discover;открывать
+survey;обзор
+differ;отличаться
+force;сила
+sparse;редкий
+shift;меняться
+desired;желанный
+shine;светить
+gig;концерт
+steal;воровать
+charitable;благотворительный
+along;на
+auxiliary;запасной
+stage;сцена
+shyness;застенчивость
+whose;чей?
+upstair;находящийся этажом выше
+anniversary;годовщина
+sob;рыдать
+adore;обожать
+admiration;восхищение
+heater;обогреватель
+notice;замечать
+jog;бегать
+ride;ездить
+interrupt;прерывать
+described;описанный
+tense;напряжённый 
+wandering;извилистый
+designation;идентификация
+correspond;соответствовать
+algorithm;алгоритм
+prior;предварительный
+propagation;распространение
+arguably;вероятно
+prominent;видный
+particularly;в особенности
+crucial;критически важный
+hood;капот
+machinery;оборудование
+derivative;производная
+via;через
+insight;проницательность
+derive;происходить
+honestly;в самом деле
+distribute;распределять
+included;включённый
+bracelet;браслет
+selling;продажа
+stall;палатка
+runway;взлётно-посадочная полоса
+quit;прекращать
+bleed;кровоточить
+refuse;отказываться
+descent;спуск
+during;в течение
+Easter;Пасха
+shelf;полка
+surface;поверхность
+near;около
+cover;накрывать
+prepositional;предложный
+rob;обдирать 
+continue;продолжать
+intently;внимательно
+necessary;необходимый
+whale;кит
+shining;блестящий
+import;иммигрант
+pay;уплачивать
+leave;оставлять
+interrogation;допрос
+guard;охранник
+toward;по направлению к
+rest;остаток
+explode;взрывать
+kept;соблюдаемый
+store;магазин
+thick;толстый
+reach;добираться
+dig;копать
+while;тогда как
+robbery;ограбление
+accident;несчастный случай
+theft;кража
+thief;вор
+nearby;ближайший
+other;другой
+neighbour;сосед
+celebrate;праздновать
+loudly;громко
+stone;камень
+throw;бросать
+disappear;пропадать
+along;вдоль
+verbose;подробный
+swag;деньги, полученные нечестным путём
+kudos;похвала 
+path;путь
+advertising;реклама
+scale;шкала
+intercept;пересечение
+nearest;ближайший
+draft;набросок
+influence;влияние
+obviously;очевидно
+caution;осторожность
+distribution;распределение
+assessment;оценивание
+composing;композиция
+shout;кричать
+suddenly;неожиданно
+destination;место назначения
+expectation;ожидание
+insulting;оскорбительный
+depend;зависеть
+ability;умение
+thirty;тридцать
+decide;принимать решение
+lounge;комната для отдыха
+unfortunately;к сожалению
+decided;определённый
+unpleasant;неприятный
+extremely;чрезвычайно
+each;каждый
+mount;устанавливать
+denote;обозначать
+yield;приводить
+pick;выбирать
+sight;взгляд
+affirmative;утверди́тельный
+incredibly;невероятно
+escape;убегать
+disaster;бедствие
+argue;спорить 
+awful;ужасный
+furious;яростный
+boil;варить
+fog;туман
+foggy;неясный
+waste;отходы
+waste;расточительство
+hire;нанимать
+sailing;мореплавание
+sightseeing;осмотр достопримечательностей
+mainly;в основном
+believe;верить
+gloves;перчатки
+previous;предыдущий
+improvement;улучшение
+advanced;продвинутый
+belong;принадлежать
+selfish;эгоистичный
+consist;заключаться в
+realize;осознавать
+suppose;полагать
+delay;задержка
+carrier;грузовое средство
+departure;отъезд
+consistent;последовательный
+kernel;ядро
+merge;объединяться
+consonant;согласный
+anymore;больше не
+insurance;страховка
+recently;недавно
+soon;скоро
+flow;поток
+arguing;спор
+hurry up;торопиться
+sunbathe;загорать
+lie;лежать
+prompt;подсказывать
+prompt;побуждать
+explore;изучать
+puncture;прокалывать
+tidy;опрятный 
+fit;быть впору
+entire;весь
+fell;валить
+jamming;заедание
+matter;дело
+bag;сумка
+target;цель
+bootstrap;начальная загрузка
+provided;если только
+revise;корректировать
+behind;позади
+engine;двигатель
+call;называть
+coast;побережье
+queue;очередь
+neighbor;сосед
+schedule;график
+invader;захватчик
+pretend;притворяться
+flier;пилот
+land;почва
+glad;радостный
+pleased;довольный
+arrive;прибывать
+spend;проводить
+divorce;развод
+bend;сгибать
+chew;жевать
+fold;складывать
+emphasize;акцентировать
+improve;улучшать
+unable;неспособный
+pump;насос
+breathing;дыхание
+condition;состояние
+asthma;астма
+deaf;глухой
+hide;прятать
+convenient;удобный
+excited;взволнованный
+mime;имитировать 
+explain;объяснять
+contain;содержать
+immediately;немедленно
+prolific;продуктивный
+victim;жертва
+adopt;принимать 
+cheap;дешёвый
+recent;новый
+changing;переменчивый
+pedestrian;пешеход
+antique;антикварный
+antique;старомодный
+ill;больной
+sweat;пот
+similar;похожий
+batch;партия хлеба
+mend;чинить
+put;придавать
+cut;резать
+scissors;ножницы
+composer;композитор
+receptionist;секретарь
+cap;кепка
+hairdresser;парикмахер
+gain;получать
+garlic;чеснок
+turn off;выключать
+stressed;напряженный
+think;считать
+department store;универсальный магазин
+contestant;участник соревнования
+lawn;лужайка
+fitting;примерка
+instead;вместо
+tell;говорить
+recognize;распознавать
+boring;скучный
+borrow;брать на время
+blanket;одеяло
+sibling;брат или сестра
+cousin;кузен
+them;(н)их
+dress;одеваться
+background;задний план
+separately;по отдельности
+infidelity;неверность
+carpet;ковёр
+smiling;улыбающийся
+sleeve;рукав
+suit;костюм
+stay;оставаться
+owl;сова
+bright;яркий
+warm;тёплый
+outside;снаружи
+quite;полностью
+behind;за 
+stranger;незнакомец
+essence;сущность
+ensemble;комплект
+suggest;предлагать
+wish;желать
+though;но
+here;здесь
+picturesque;живописный 
+lap;колени
+behind;позади
+glossy;блестящий
+so;так
+wet;мокрый
+closely;близко
+carry;нести
+verb;глагол
+inside;внутри 
+sofa;диван
+purse;дамская сумочка
+tongue;язык 
+letter;письмо
+speech;выступление
+speech;речь
+vocabulary;словарь
+greatly;значительно
+former;бывший
+former;прежний
+collocation;словосочетание
+suitable;подходящий
+whom;кому; кого; которого; которому
+correct;правильный
+same;так же
+possible;возможный
+nightmare;кошмар 
+noisy;шумный
+either;любой
+extrovert;экстраверт
+difficult;сложный
+housemate;сосед
+percentage;процент
+adult;взрослый
+growing;возрастающий
+take;брать
+part;участие
+take part;принимать участие
+fence;забор
+stand;стоять
+district;квартал
+attend;присутствовать
+place;место
+type;тип
+common;общий 
+facial;лицевой
+interested;увлечённый
+moustache;усы
+thin;тонкий
+which;который
+square;квадратный
+average;средний
+dyed;окрашенный
+almost;почти
+thought;мысль
+waxwork;восковая фигура
+literally;на самом деле
+definitely;определённо
+performance;выступление
+wasp;оса
+piercing;проницательный
+overall;общий
+lipstick;помада
+wear;носить
+pale;бледный
+reason;причина
+exactly;именно
+disappointing;разочаровывающий
+worried;обеспокоенный
+share;делить
+earn;зарабатывать 
+lip;губа
+mean;означать
+untidy;неопрятный
+generous;щедрый
+generous;великодушный
+hospitable;радушный
+questionnaire;анкета
+opposite;противоположный
+foreign;иностранный
+silent;тихий
+clever;умелый
+completing;дополняющий
+pronunciation;произношение
+waste;растрата
+indeed;в самом деле
+quite;действительно
+therefore;поэтому
+therefore;следовательно
+relate;соотносить
+above;выше 
+sharply;резко
+plot;участок земли
+plot;сюжет
+above;над
+obvious;очевидный
+dissatisfaction;недовольство
+prone;склонный
+contingency;случай
+thoroughly;тщательно
+covered;прикрытый
+however;однако
+related;связанный
+spacious;просторный
+though;несмотря на
+eager;жаждущий
+attempt;попытка
+predict;предугадывать
+decision;решение
+during;во время
+signature;подпись
+throughout;на всём протяжении 
+throughout;повсюду
+customer;клиент
+assistance;помощь
+spring;весна
+uniquely;уникально
+correspondingly;соответственно
+fewest;наименьший
+comparing;сравнение
+comparison;сравнение
+conclusion;вывод
+shape;облик
+afterwards;после
+control;контроль
+meet;встречаться
+relatively;относительно
+held;удерживаемый
+ascending;восходящий
+participate;участвовать
+participant;участник
+launching;запуск
+syllabus;программа обучения
+further;способствовать
+below;внизу
+confuse;путать 
+announced;объявленный
+otherwise;во всём остальном
+otherwise;иначе
+survey;обследование
+preferably;предпочтительно
+specify;точно определять
+specify;устанавливать
+typo;опечатка
+unique;уникальный
+flood;наводнение
+freely;свободно
+already;уже
+adhere;придерживаться
+probably;вероятно
+irritate;раздражать
+efficiently;рационально
+cordially;радушно
+cordially;сердечно
+invitation;приглашение
+still;всё ещё
+announcement;объявление
+prerequisite;предварительное условие
+corresponding;соответствующий
+catch;ловить
+familiar;знакомый
+exploratory;исследовательский
+purpose;замысел
+permitted;разрешённый
+term;срок
+condition;условие
+terms and conditions;положения и условия
+subject;объект
+tend;иметь склонность
+assignment;задание
+carefully;осторожно
+carefully;тщательно
+announcement;заявление
+spread;раскладывать
+causing;причиняющий
+statement;высказывание
+tread;наступать
+attract;привлекать
+exist;существовать
+exist;выживать
+upward;вверх
+curve;изгиб
+expression;выражение
+their;их
+match;совпадать
+attention;забота
+drop;ронять
+cannon;пушка
+inclusive;включающий
+refer;ссылаться
+compatible;совместимый
+perhaps;возможно
+beard;борода
+laugh;смеяться
+sense of humour;чувство юмора
+relationship;взаимоотношения
+exquisite;утонченный
+proper;надлежащий
+either;каждый
+either;тоже
+access;доступ
+opportunity;возможность
+through;через
+opportunity;перспектива
+get up;вставать
+get on;ладить
+get on;садиться
+get on;преуспевать
+get home;возвращаться домой
+pass;проходить
+put in;проводить время
+relative;родственник
+unemployed;безработный
+accommodation;жильё
+ever;когда-либо
+hardly ever;почти никогда
+higher;высший
+estimate;оценивать
+suffering;страдание
+stomach;желудок
+tooth;зуб
+attractive;привлекательный
+mouth;рот
+neck;шея
+describe;давать характеристику 
+discuss;обсуждать
+kind;мягкий
+talkative;разговорчивый
+soft;мягкий
+kind;добрый
+quiet;спокойный
+confident;уверенный
+quiet;тихий
+daughter;дочь
+uncle;дядя
+individually;отдельно
+quite;довольно
+preposition;предлог 
+appear;казаться
+another;другой
+usually;обычно
+often;часто
+sure;уверенный
+prefer;предпочитать
+ideally;идеально
+intelligent;умный
+intelligent;разумный
+get on with;ладить с
+then;затем
+give;давать
+that;это
+feel;чувствовать
+satisfaction;удовлетворение
+quick;быстрый
+useful;полезный
+fairly;довольно
+compared to;по сравнению с
+spoken;устный
+least;наименее
+commonly;как правило
+genre;жанр
+suspense;неопределенность
+depiction;изображение
+narrator;рассказчик
+character;характер
+kind;вид
+shy;недостающий
+sky;небо
+abroad;за пределами дома
+shy;застенчивый
+adjective;прилагательное
+niece;племянница
+nephew;племянник
+prime;важнейший
+consider;рассматривать
+property;собственность
+proper;настоящий
+noun;существительное
+plurality;множество
+confused;озадаченный
+affect;оказывать воздействие
+inappropriate;неуместный
+spelling;правописание
+heavy;тяжёлый
+hotness;жара
+heat;тепло
+curly;вьющийся 
+opposite;находящийся напротив
+deprecated;устаревший
+fill;наполнять
+shape;форма
+churn;перемешивать
+apply;применять
+apply;обращаться с заявлением
+rubbish;мусор
+competition;конкуренция
+occupation;профессия
+piece;часть
+sweetness;сладость
+sympathy;поддержка
+maroon;красно-коричневый
+precision;точность
+wage;зарплата
+describe;описывать
+separate;отдельный
+salary;зарплата
+gender;пол
+with;с
+digital;цифровой
+concatenate;конкатенировать
+comprehension;понимание
+so far;до сих пор
+birdwatch;изучать птиц в естественных условиях
+hiking;пеший туризм
+get;становиться
+get;добираться
+gotta;нужно
+care;аккуратность
+cause;причина
+cause;быть причиной
+away;прочь
+away;вдали
+get;получить
+begging;попрошайничество
+weak;бессильный
+hurting;боль
+knee;колено
+briefly;недолго
+briefly;в двух словах
+weak;слабый
+taste;вкус
+broken;сломанный 
+discussion;обсуждение
+brick;кирпич
+ruddy;чертов 
+slope;склон
+trick;уловка
+able;способный
+able;компетентный
+confluence;место слияния
+void;пустота
+mean;подразумевать
+enough;достаточно
+should;должно быть
+might;мог(ла)
+must;следует
+quickly;быстро
+snail;улитка
+tortoise;черепаха
+bored;скучающий
+than;чем
+tall;высокий
+mine;мой
+attention;внимание
+consider;считать
+nearly;почти
+considered;продуманный
+stuck;застрявший
+brake;тормоза
+flash;сверкать
+breaking;поломка
+pot;котелок
+tree;дерево
+sentence;предложение 
+appropriate;подходящий
+mending;вещи, которые надо починить
+mending;ремонт
+pottery;глиняная посуда
+match;сочетаться
+evidence;доказательство
+wannabe;подражатель
+likelihood;вероятность
+frequency;частота
+inland;внутренний
+degree;уровень
+mug;кружка
+terrified;напуганный
+dish;блюдо
+mind;разум
+finally;в конце концов
+lasagna;лазанья 
+care;уход
+lovely;привлекательный
+neither;тоже не
+age;возраст
+guess;полагать
+guess;угадывать
+afraid;испуганный
+lately;недавно
+aunt;тётя
+when;когда
+offence;наступление
+offence;правонарушение
+insult;оскорбление
+pull;тянуть
+seem;казаться
+supply;запас
+supply;снабжение
+must;должен
+must;должно быть
+difference;различие
+way;манера
+were;были
+which;который?
+there;там
+there;в этом случае
+there;здесь
+cheat;жульничать
+recap;резюмировать
+receive;получать
+comma;запятая
+work;работать
+reduction;снижение
+dimension;размеры
+separated;отдельный
+supervised;под руководством
+association;ассоциация
