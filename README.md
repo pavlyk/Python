@@ -10,7 +10,34 @@ git push -u origin master
 ```
 В команде git push мы использовали ключ -u. Данный ключ используется для того, чтобы связать локальную ветку master с удаленной origin/master
 
+# Hotkeys для VScode
+```python
+# Alt + F2 bookmarks F3 _ Shift F3
+# Alt + ; metaGo
+# Alt +shift + t Terminal, Alt + Shift + U - Output
+# Alt + 1,2,3 Jump to window
+# Alt + \ Split window
+# Alt + Shift + 2 navigate Right
+# Alt + p Open file
+# Alt + B Hide side bar
+# Alt + shift + E Go to side bar
+# Alt + Enter Add new line after
+# Alt + Shift + Enter Add new line before
 
+# unix
+# pip install virtualenv
+# python3 -m venv env
+# source env/bin/activate
+# deactivate
+
+# windows
+# python3 -m venv c:\path\to\myenv
+# Где вместо c:\path\to\myenv укажите путь до папки с виртуальным окружением, которую вы хотите создать.
+# После того как скрипт отработает, вы можете активировать виртуальное окружение с помощью:
+# c:\path\to\myenv\Scripts\activate.bat
+# Чтобы деактивировать виртуальное окружение:
+# c:\path\to\myenv\Scripts\deactivate.bat
+```
 
 
 # Примеры разметки на Github.com
