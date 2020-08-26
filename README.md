@@ -25,18 +25,20 @@ git push -u origin master
 # Alt + Shift + Enter Add new line before
 
 # unix
-# pip install virtualenv
-# python3 -m venv env
-# source env/bin/activate
-# deactivate
+pip install virtualenv
+# -m mod : run library module as a script (terminates option list)
+python3 -m venv env
+# source is a bash shell built-in command that executes the content of the file passed as argument, in the current shell. It has a synonym in . (period).
+source env/bin/activate
+deactivate
 
 # windows
-# python3 -m venv c:\path\to\myenv
+python3 -m venv c:\path\to\myenv
 # Где вместо c:\path\to\myenv укажите путь до папки с виртуальным окружением, которую вы хотите создать.
 # После того как скрипт отработает, вы можете активировать виртуальное окружение с помощью:
-# c:\path\to\myenv\Scripts\activate.bat
+c:\path\to\myenv\Scripts\activate.bat
 # Чтобы деактивировать виртуальное окружение:
-# c:\path\to\myenv\Scripts\deactivate.bat
+c:\path\to\myenv\Scripts\deactivate.bat
 ```
 
 
