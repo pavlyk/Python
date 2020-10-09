@@ -23,6 +23,11 @@ git push -u origin master
 # Alt + shift + E Go to side bar
 # Alt + Enter Add new line after
 # Alt + Shift + Enter Add new line before
+# Cmd + Shift + E - go to sidebar
+# Alt + Shift + > - select right word
+# Cmd + q - autocomplit (default alt+esc)
+# Cmd + Shift + M - problem console
+
 
 # unix
 pip install virtualenv

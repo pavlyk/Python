@@ -1,4 +1,7 @@
 {
-    "code-runner.saveFileBeforeRun": true
-    "python.pythonPath": "/usr/local/bin/python3"
+    "code-runner.saveFileBeforeRun": true,
+    "python.pythonPath": "/usr/local/bin/python3",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
 }
