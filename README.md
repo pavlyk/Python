@@ -27,6 +27,8 @@ git push -u origin master
 # Alt + Shift + > - select right word
 # Cmd + q - autocomplit (default alt+esc)
 # Cmd + Shift + M - problem console
+# Cmd + Shift + D - debug panel
+# Ctrl + Shift + G - git console
 
 
 # unix
@@ -36,6 +38,7 @@ python3 -m venv env
 # source is a bash shell built-in command that executes the content of the file passed as argument, in the current shell. It has a synonym in . (period).
 source env/bin/activate
 deactivate
+pip freeze > requirements.txt
 
 # windows
 python3 -m venv c:\path\to\myenv
