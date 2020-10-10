@@ -29,6 +29,9 @@ git push -u origin master
 # Cmd + Shift + M - problem console
 # Cmd + Shift + D - debug panel
 # Ctrl + Shift + G - git console
+# Cmd+K;Cmd+0 | Cmd+K;Cmd+J Toogle function
+# Cmd+K;Cmd+[ - Fold Region
+# Cmd+K;Cmd+] - Unfold Region
 
 
 # unix
