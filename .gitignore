@@ -3,9 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 Cordova/
-
+work/
 # C extensions
 *.so
+
+PythonP/
 
 # Distribution / packaging
 .Python
