@@ -9,6 +9,7 @@ class CarBase:
         self.carrying = float(carrying)
 
     def get_photo_file_ext(self):
+        # splitext разбивает путь на пару (root, ext), где ext начинается с точки и содержит не более одной точки.
         root, ext = os.path.splitext(self.photo_file_name)
         return ext
 

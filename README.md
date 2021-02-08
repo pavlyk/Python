@@ -19,7 +19,7 @@ git push -u origin master
 ```python
 # Alt + F2 bookmarks F3 _ Shift F3
 # Alt + ; metaGo
-# Alt +shift + t Terminal, Alt + Shift + U - Output
+# Alt +shift + t Terminal, Alt + Shift + U - Output, Alt + Shift + Y - Debug Console
 # Alt + 1,2,3 Jump to window
 # Alt + \ Split window
 # Alt + Shift + 2 navigate Right
@@ -44,6 +44,7 @@ pip install virtualenv
 # -m mod : run library module as a script (terminates option list)
 python3 -m venv env
 # source is a bash shell built-in command that executes the content of the file passed as argument, in the current shell. It has a synonym in . (period).
+# source читает и выполняет команды из файла, указанного в качестве аргумента в текущей среде оболочки.
 source env/bin/activate
 deactivate
 pip freeze > requirements.txt
