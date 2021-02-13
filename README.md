@@ -1,7 +1,7 @@
 # Python
 
 ![MIPT_C1](https://github.com/pavlyk/Python/blob/master/Coursera/imgs/MIPT_C1.png?raw=true)
-
+![MIPT_C1](https://github.com/pavlyk/Python/blob/master/Coursera/imgs/MIPT_C2.png?raw=true)
 
 # Как создать новый репозиторий
 
