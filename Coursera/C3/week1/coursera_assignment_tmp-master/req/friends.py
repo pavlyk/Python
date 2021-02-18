@@ -5,6 +5,7 @@ ACCESS_TOKEN = '17da724517da724517da72458517b8abce117da17da72454d235c274f1a2be5f
 API_URL = 'https://api.vk.com/method'
 V = '5.71'
 
+
 def get_user_id(uid):
     users_get = '{}/users.get'.format(API_URL)
     resp = requests.get(users_get, params={
@@ -60,7 +61,7 @@ def calc_age(uid):
         years.setdefault(diff, 0)
         years[diff] += 1
     # сортируем от наиболее встречаемой разницы возраста (сколько людей с такой разницей)
-    # если одинаковое кол-во то сортируем то наиболее большой разницы лет 
+    # если одинаковое кол-во то сортируем то наиболее большой разницы лет
     return sorted(years.items(), key=lambda v: (v[1], -v[0]), reverse=True)
 
 
